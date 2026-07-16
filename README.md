@@ -1,10 +1,14 @@
-# Snake Game in Rust + WebAssembly
+# Snake Game in Rust + WebAssembly 
 
 A browser-based Snake game built with **Rust**, **WebAssembly (WASM)**, and **TypeScript**.
 
 This project was created by following [this Udemy course](https://www.udemy.com/share/105FWE3@ugYE2ZTGGW8RdvSV-KkAnTHezz-u_tFuIC90ANKMw_aiWaE6RFrQxOPbmtbjXR91cQ==/) to learn the fundamentals of Rust, WebAssembly, and frontend integration. The goal was to gain hands-on experience building a complete application while learning Rust's ownership model, memory management, and compiling Rust code to run in the browser.
 
 ![Voyage](certification/Rust-Wasm-SnakeGame.jpg)
+
+## Demo
+
+▶️ **[Play Snake Game](https://dapulache.github.io/snake-game/)**
 
 ## Technologies
 
