@@ -1,6 +1,6 @@
 # Snake Game in Rust + WebAssembly
 
-[![PDF Preview Shield](first_page_preview.png)](certification/Rust_Webassembly-SnakeGame.pdf)
+![Voyage](certification/Rust_Webassembly-SnakeGame.pdf)
 
 A browser-based Snake game built with **Rust**, **WebAssembly (WASM)**, and **TypeScript**.
 
