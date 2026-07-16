@@ -8,7 +8,7 @@ module.exports = {
         path: path.resolve(__dirname, "public"),
         filename: "bootstrap.js"
     },
-    mode: "development",
+    mode: process.env.NODE_ENV || "development",
     module: {
         rules: [
             {
